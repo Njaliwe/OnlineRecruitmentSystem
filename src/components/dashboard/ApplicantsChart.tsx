@@ -14,6 +14,7 @@ const data = [
   { job: "UI Designer", applicants: 28 },
   { job: "Product Manager", applicants: 22 },
   { job: "DevOps", applicants: 18 },
+  { job: "Frontend test", applicants: 32 },
 ];
 
 export function ApplicantsChart() {
